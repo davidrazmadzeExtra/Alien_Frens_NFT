@@ -15,3 +15,6 @@ OpenSea Collection:
 
 https://opensea.io/collection/alienfrensnft
 
+Smart Contract:
+
+https://etherscan.io/address/0x123b30e25973fecd8354dd5f41cc45a3065ef88c#code
